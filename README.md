@@ -19,7 +19,7 @@ Competências: Regulamento geral sobre a proteção de dados (RGPD) · Java · S
 
 
 ### en
-Hello! I'm Leandro Peloso Monteiro. I hold degrees in Law and Computer Science.
+### Hello! I'm Leandro Peloso Monteiro. I hold degrees in Law and Computer Science.
 
 🔭 I work as a Junior Software Engineer and Senior Contracts/Legal Analyst | Java 8 and 11 | Azure - hdinsight, datafactory, storage | Spark | SQL Server | Spring - web, security, cloud, data |
 🌱 Currently studying Java
