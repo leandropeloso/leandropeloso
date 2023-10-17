@@ -21,8 +21,9 @@ Competências: Regulamento geral sobre a proteção de dados (RGPD) · Java · S
 ### en
 ### Hello! I'm Leandro Peloso Monteiro. I hold degrees in Law and Computer Science.
 
-🔭 I work as a Junior Software Engineer and Senior Contracts/Legal Analyst | Java 8 and 11 | Azure - hdinsight, datafactory, storage | Spark | SQL Server | Spring - web, security, cloud, data |
-🌱 Currently studying Java
+- 🔭 I work as a Junior Software Engineer and Senior Contracts/Legal Analyst | Java 8 and 11 | Azure - hdinsight, datafactory, storage | Spark | SQL Server | Spring - web, security, cloud, data |
+- 🌱 Currently studying Java
+  
 1 - Java application development focusing on the software development life cycle, from concept and design to the testing phase - Java 8 and 11;
 2 - Development of REST APIs using technologies such as Spring Boot/Data/Cloud, JPA, Hibernate, etc;
 3 - Microservices architecture;
