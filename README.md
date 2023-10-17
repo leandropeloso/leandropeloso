@@ -1,6 +1,6 @@
 ### Olá! Sou Leandro Peloso Monteiro. Formado em Direito e Ciência da Computação.
 
-- 🔭 Hoje trabalho com back-end
+- 🔭 Atuo como Engenheiro de Software | Java 8 e 11 | Azure - hdinsight, datafactory, storage | Spark | SQL Server | Spring - web, security, cloud, data |
 - 🌱 Estudando Java 
 
 
