@@ -1,7 +1,20 @@
 ### Olá! Sou Leandro Peloso Monteiro. Formado em Direito e Ciência da Computação.
 
-- 🔭 Atuo como Engenheiro de Software | Java 8 e 11 | Azure - hdinsight, datafactory, storage | Spark | SQL Server | Spring - web, security, cloud, data |
+- 🔭 Atuo como Engenheiro de Software Jr e Analista de Contratos e Jurídico Senior | Java 8 e 11 | Azure - hdinsight, datafactory, storage | Spark | SQL Server | Spring - web, security, cloud, data |
 - 🌱 Estudando Java 
+
+1 - Desenvolvimento de aplicativos Java visando o ciclo de vida de desenvolvimento de softwares, desde o conceito e projeto até a fase de testes – Java 8 e 11;
+2 - Desenvolvimento de APIs REST utilizando tecnologias como: Spring Boot/Data/Cloud, JPA, Hibernate etc;
+3 - Arquitetura de micro-serviços;
+4 - Utilização de gerenciadores de dependência e build (Maven e Gradle);
+5 - Conhecimento em Docker;
+6 - Controle de versão (Git);
+7 - Desenvolvimento e manutenção de banco de dados SQL server;
+8 - Scrum Master do time de desenvolvimento - metodologias ágeis de desenvolvimento (Scrum, Kanban), Sprints, Sprint Backlog e Sprint Planning;
+9 - Arquiteto de projetos Azure DevOps - configuração de ambiente e segurança, desenvolvimento de boards e desenvolvimento de manual técnico de utilização para clientes, gerentes de projetos, time de negócios e time de desenvolvimento;
+10 - Analista Jurídico/Negócios Senior - análise e previsão de riscos, pesquisas em legislação, doutrina e jurisprudência, LGPD - aplicação de treinamento aos colaboradores e parceiros, acompanhamento legislativo regulatório, contratos, elaboração, atualização e análise de documentos.
+
+Competências: Regulamento geral sobre a proteção de dados (RGPD) · Java · Spring Framework · Spring MVC · Spring Boot · Spring Batch · Spring Data · Spring Security · Apache Maven · Gradle · Docker · SQL · Oracle SQL Developer · PostgreSQL · Postman API · JPA (Java Persistence API) · API REST · Microsserviços · Hibernate · Git · Scrum · Kanban · Azure DevOps · Direito público · Direito privado
 
 
 <div style="display: inline_block"><br>
