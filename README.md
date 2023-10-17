@@ -4,25 +4,25 @@
 - 🔭 Atuo como Engenheiro de Software Jr e Analista de Contratos/Jurídico Senior | Java 8 e 11 | Azure - hdinsight, datafactory, storage | Spark | SQL Server | Spring - web, security, cloud, data |
 - 🌱 Estudando Java 
 
-1 - Desenvolvimento de aplicativos Java visando o ciclo de vida de desenvolvimento de softwares, desde o conceito e projeto até a fase de testes – Java 8 e 11;
+    1 - Desenvolvimento de aplicativos Java visando o ciclo de vida de desenvolvimento de softwares, desde o conceito e projeto até a fase de testes – Java 8 e 11;
 
-2 - Desenvolvimento de APIs REST utilizando tecnologias como: Spring Boot/Data/Cloud, JPA, Hibernate etc;
+    2 - Desenvolvimento de APIs REST utilizando tecnologias como: Spring Boot/Data/Cloud, JPA, Hibernate etc;
 
-3 - Arquitetura de micro-serviços;
+    3 - Arquitetura de micro-serviços;
 
-4 - Utilização de gerenciadores de dependência e build (Maven e Gradle);
+    4 - Utilização de gerenciadores de dependência e build (Maven e Gradle);
 
-5 - Conhecimento em Docker;
+    5 - Conhecimento em Docker;
 
-6 - Controle de versão (Git);
+    6 - Controle de versão (Git);
 
-7 - Desenvolvimento e manutenção de banco de dados SQL server;
+    7 - Desenvolvimento e manutenção de banco de dados SQL server;
 
-8 - Scrum Master do time de desenvolvimento - metodologias ágeis de desenvolvimento (Scrum, Kanban), Sprints, Sprint Backlog e Sprint Planning;
+    8 - Scrum Master do time de desenvolvimento - metodologias ágeis de desenvolvimento (Scrum, Kanban), Sprints, Sprint Backlog e Sprint Planning;
 
-9 - Arquiteto de projetos Azure DevOps - configuração de ambiente e segurança, desenvolvimento de boards e desenvolvimento de manual técnico de utilização para clientes, gerentes de projetos, time de negócios e time de desenvolvimento;
+    9 - Arquiteto de projetos Azure DevOps - configuração de ambiente e segurança, desenvolvimento de boards e desenvolvimento de manual técnico de utilização para clientes, gerentes de projetos, time de negócios e time de desenvolvimento;
 
-10 - Analista Jurídico/Negócios Senior - análise e previsão de riscos, pesquisas em legislação, doutrina e jurisprudência, LGPD - aplicação de treinamento aos colaboradores e parceiros, acompanhamento legislativo regulatório, contratos, elaboração, atualização e análise de documentos.
+    10 - Analista Jurídico/Negócios Senior - análise e previsão de riscos, pesquisas em legislação, doutrina e jurisprudência, LGPD - aplicação de treinamento aos colaboradores e parceiros, acompanhamento legislativo regulatório, contratos, elaboração, atualização e análise de documentos.
 
 Competências: Regulamento geral sobre a proteção de dados (RGPD) · Java · Spring Framework · Spring MVC · Spring Boot · Spring Batch · Spring Data · Spring Security · Apache Maven · Gradle · Docker · SQL · Oracle SQL Developer · PostgreSQL · Postman API · JPA (Java Persistence API) · API REST · Microsserviços · Hibernate · Git · Scrum · Kanban · Azure DevOps · Direito público · Direito privado.
 
@@ -33,25 +33,25 @@ Competências: Regulamento geral sobre a proteção de dados (RGPD) · Java · S
 - 🔭 I work as a Junior Software Engineer and Senior Contracts/Legal Analyst | Java 8 and 11 | Azure - hdinsight, datafactory, storage | Spark | SQL Server | Spring - web, security, cloud, data |
 - 🌱 Currently studying Java
   
-1 - Java application development focusing on the software development life cycle, from concept and design to the testing phase - Java 8 and 11;
+    1 - Java application development focusing on the software development life cycle, from concept and design to the testing phase - Java 8 and 11;
 
-2 - Development of REST APIs using technologies such as Spring Boot/Data/Cloud, JPA, Hibernate, etc;
+    2 - Development of REST APIs using technologies such as Spring Boot/Data/Cloud, JPA, Hibernate, etc;
 
-3 - Microservices architecture;
+    3 - Microservices architecture;
 
-4 - Use of dependency and build management tools (Maven and Gradle);
+    4 - Use of dependency and build management tools (Maven and Gradle);
 
-5 - Proficiency in Docker;
+    5 - Proficiency in Docker;
 
-6 - Version control (Git);
+    6 - Version control (Git);
 
-7 - Development and maintenance of SQL Server databases;
+    7 - Development and maintenance of SQL Server databases;
 
-8 - Scrum Master for the development team - agile development methodologies (Scrum, Kanban), Sprints, Sprint Backlog, and Sprint Planning;
+    8 - Scrum Master for the development team - agile development methodologies (Scrum, Kanban), Sprints, Sprint Backlog, and Sprint Planning;
 
-9 - Azure DevOps project architect - environment and security configuration, board development, and creation of technical usage manuals for clients, project managers, business teams, and development teams;
+    9 - Azure DevOps project architect - environment and security configuration, board development, and creation of technical usage manuals for clients, project managers, business teams, and development teams;
 
-10 - Senior Legal/Business Analyst - risk analysis and prediction, legal research in legislation, doctrine, and jurisprudence, GDPR compliance - providing training to employees and partners, regulatory legislative monitoring, contract drafting, updating, and document analysis.
+    10 - Senior Legal/Business Analyst - risk analysis and prediction, legal research in legislation, doctrine, and jurisprudence, GDPR compliance - providing training to employees and partners, regulatory legislative monitoring, contract drafting, updating, and document analysis.
 
 Skills: General Data Protection Regulation (GDPR) · Java · Spring Framework · Spring MVC · Spring Boot · Spring Batch · Spring Data · Spring Security · Apache Maven · Gradle · Docker · SQL · Oracle SQL Developer · PostgreSQL · Postman API · JPA (Java Persistence API) · REST API · Microservices · Hibernate · Git · Scrum · Kanban · Azure DevOps · Public Law · Private Law.
 
